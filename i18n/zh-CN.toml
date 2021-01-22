@@ -16,7 +16,7 @@
 [about]
   other = "关于我"
 [contact]
-  other = "联络"
+  other = "联系我"
 [contact_replies]
   other = "一般回应需时 {{ .Count }} 小时"
 [blog]

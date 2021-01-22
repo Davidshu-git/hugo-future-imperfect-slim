@@ -6,6 +6,9 @@
         {{ with .Description }}<p>{{ . }}</p>{{ end }}
       </div>
     </header>
+    <div class="content">
+      {{ .Render "featured" }}
+    </div>
     <div id="content">
       {{ .Content }}
     </div>
