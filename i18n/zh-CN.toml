@@ -10,7 +10,7 @@
 [learn_more]
   other = "more"
 [attribution]
-  other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br><a href='https://beian.miit.gov.cn/' target='_blank' rel='noopener'>京ICP备2021000030号</a><br>"
+  other = "Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Future Imperfect</a><br><a href='https://beian.miit.gov.cn/' target='_blank' rel='noopener'>京ICP备2021000030号</a><br>"
 
 # Sections
 [about]
